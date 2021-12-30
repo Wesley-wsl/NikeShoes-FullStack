@@ -1,6 +1,6 @@
 [submodule "Front-end"]
 	path = back-end
-	url = https://github.com/Wesley-wsl/NikeShoes-frontend.git
+	url = https://github.com/Wesley-wsl/NikeShoes-frontend
 [submodule "Back-end"]
 	path = Back-end
-	url = https://github.com/Wesley-wsl/NikeShoes-backend.git
+	url = https://github.com/Wesley-wsl/NikeShoes-backend
