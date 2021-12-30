@@ -10,7 +10,7 @@
 
 > https://nike-shoes-frontend.vercel.app 
 
-## Front-end deploy with Heroku: :dash:
+## Back-end deploy with Heroku: :dash:
 > https://nikeshoes-api.herokuapp.com/docs/
 
 ## 📖 About the Project
