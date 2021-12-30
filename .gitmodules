@@ -1,6 +1,6 @@
-[submodule "Front-end"]
-	path = back-end
+[submodule "NikeShoes-frontend"]
+	path = NikeShoes-frontend
 	url = https://github.com/Wesley-wsl/NikeShoes-frontend
-[submodule "Back-end"]
-	path = Back-end
+[submodule "NikeShoes-backend"]
+	path = NikeShoes-backend
 	url = https://github.com/Wesley-wsl/NikeShoes-backend
