@@ -68,6 +68,7 @@ NikeShoes-FullStack - This is a full stack application that simulates a fictitio
 <li><a href="https://prettier.io">Prettier</a></li>
 <li><a href="Typescriptlang.org">Typescript</a></li>
 <li><a href="https://editorconfig.org">EditorConfig</a></li>
+<li><a href="https://www.cypress.io">Cypress</a></li>
 <li><a href="https://jestjs.io">Jest</a></li>
 
 ### 📕 Backend
